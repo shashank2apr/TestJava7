@@ -10,9 +10,7 @@ public class TestEffectiveFinal {
 	public static void main(String[] args) {
 		
 		final String outer="Outer";
-		/*ExecutorService pool = Executors.newFixedThreadPool(10);
-		//Future f=pool.submit(()->{return null;})
-		
+	/*	
 		Future future = pool.submit(new Callable<Future>() {
 
 			@Override
