@@ -21,7 +21,7 @@ public class TestEffectiveFinal {
 				return null;
 			}
 		});
-				*/
+			*/
 		
 		new Thread(new Runnable() {
 			
