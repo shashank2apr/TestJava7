@@ -7,8 +7,6 @@ import java.util.concurrent.Future;
 
 public class TestEffectiveFinal {
 	
-	
-	
 	public static void main(String[] args) {
 		
 		final String outer="Outer";
